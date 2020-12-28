@@ -14,7 +14,7 @@ import requests
 db_client = boto3.client('dynamodb')
 hist_table = 'project-trip-history'
 
-API_KEY = 'AIzaSyCMMRTbLQhUV8YxM51V43pY-byhKc_AtDs'
+API_KEY = ''
 
 
 gmaps = googlemaps.Client(key=API_KEY)
