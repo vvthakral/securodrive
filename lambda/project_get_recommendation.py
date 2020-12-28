@@ -4,7 +4,7 @@ import math
 import googlemaps
 import pprint
 
-API_KEY = 'AIzaSyCMMRTbLQhUV8YxM51V43pY-byhKc_AtDs'
+API_KEY = ''
 
 gmaps = googlemaps.Client(key=API_KEY)
 
